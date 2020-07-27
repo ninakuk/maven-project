@@ -1,1 +1,1 @@
-Uhhhhhhhhhhhh
+zivot je bol
