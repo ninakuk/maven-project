@@ -35,7 +35,7 @@ stages{
                 success{
                     echo 'Code deployed to prod'
                 }
-                faliure{
+                failure{
                     echo 'Deployment failed'
                 }
             }
